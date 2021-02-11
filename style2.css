@@ -1,0 +1,37 @@
+
+body,p {
+	font-family: 'Work Sans', sans-serif;
+	color: #00001E;
+}
+
+h1,h2 {
+	font-family: 'Work Sans', sans-serif;
+    font-size: 3em;
+	font-weight: 200;
+}
+
+h3 {
+	font-family: 'Work Sans', sans-serif;
+    font-size: 2.7em;
+	font-weight: 200;
+	color: #1763E9;
+}
+
+h4 {
+	color: #1763E9;
+}
+
+.p1 {
+	font-size: 1.3em;
+	line-height: 1.4em;
+}
+
+.navbar-brand {
+	font-weight: 600;
+
+}
+
+.btn-default {
+	border-radius: 100px;
+	border-color: #1763E9;
+}
